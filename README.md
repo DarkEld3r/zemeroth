@@ -1,5 +1,7 @@
 # Zemeroth [![][img_license]](#license) [![][img_loc]][loc]
 
+TEST
+
 [img_license]: https://img.shields.io/badge/License-MIT_or_Apache_2.0-blue.svg
 [img_loc]: https://tokei.rs/b1/github/ozkriff/zemeroth
 
